@@ -3,6 +3,7 @@ Guessing Game
 The Guessing Game is a console-based game written in C#. The program prompts the user to guess a secret number within a certain number of attempts, based on the chosen difficulty level. The difficulty level determines the maximum number of guesses allowed.
 
 Features
+
 Randomly generates a secret number between 1 and 100.
 Offers four difficulty levels: Easy, Medium, Hard, and Cheater.
 Difficulty levels determine the maximum number of guesses allowed:
@@ -19,6 +20,7 @@ Informs the user if all the guesses are exhausted without guessing the correct n
 
 
 Prerequisites
+
 .NET Runtime Environment
 How to Run the Game
 Open a command prompt or terminal.
